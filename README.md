@@ -17,10 +17,6 @@ Dynamic Shipping Forms:
 • Once a shipment passes all checks, auto-generate a compliance report (PDF/HTML) with all shipment details. 
 • A download button for users to keep a record of their parcel’s compliance status.
 
-Gamified Learning Module: 
-• Since you already have gamification, add mini-quizzes about shipping rules or simulated shipment scenarios. 
-• Reward users with vouchers or points for correctly identifying violations.
-
 Interactive World Map: 
 • A map showing countries with their shipping restrictions highlighted. 
 • Users click on a country to view its restricted items and shipping policies.
