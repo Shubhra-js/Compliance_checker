@@ -22,8 +22,8 @@ Interactive World Map:
 • Users click on a country to view its restricted items and shipping policies.
 
 AI-Powered Prediction: 
-• Basic version: Use AI to suggest additional documents needed for certain items or countries. 
+• AI suggests additional documents needed for certain items or countries. 
 • E.g., if someone enters “Electronics to Germany over $1000,” a message pops up: “Attach customs declaration form.”
 
 Real-Time Chatbot Integration: 
-• Train the chatbot to handle basic queries like: “What items are restricted to the UK?” , “What’s the max parcel weight for Japan?” • Link it to your restricted items database for dynamic responses.
+• The chatbot is trained the chatbot to handle basic queries like: “What items are restricted to the UK?” , “What’s the max parcel weight for Japan?” • It is linked it to the restricted items database for dynamic responses.
